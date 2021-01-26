@@ -1,0 +1,9 @@
+Variables: son espacios en la memoria que se reservan para asignarle un valor para ser usado en otro momento.
+
+Strings: es una cadena de caracteres o letras que siempre va encerradas dentro de comillas dobles("") o comillas simples ('')
+
+Funciones (argumentos, return): es un objeto de JS que se usa para no repetir codigo cuando este es muy repetitivo, tambien se puede invocar para obtener un resultado.
+
+Declaraciones if: son decalraciones que nos permiten si una condicion es verdadera o falsa, dependiendo del resultado nos puede devolver un resultado u otro.
+
+Valores booleanos (true, false): es un tipo de valor que en js solo pueden ser true o false y nos permiten activar o desactivar una condicion o una funcion.
