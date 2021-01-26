@@ -1,0 +1,7 @@
+for: es un proceso al cual se le pone una condicion la cual se va a repetir hasta que la condicion se cumpla.
+
+&&: es un operador que el interprete de JS considera igual que un "y" entre dos condiciones, y considera que las dos condiciones se pueden cumplir para que el codigo funcione.
+
+||: es un operador de JS que se interpreta entre dos o mas condiciones, y cuando una de estas condiciones se cumple el codigo funciona.
+
+!: es el operador de negacion cuando este operador es usado se esta diciendo que la condicion va a ser negativa o contraria a lo que se espera. 
