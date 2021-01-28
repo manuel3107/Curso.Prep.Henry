@@ -1,0 +1,1 @@
+Arrays: es un tipo de dato en Js que puede contener todos los otros tipos de datos y objetos de una forma ordenada como una lista.
